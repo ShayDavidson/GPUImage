@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'GPUImage@iosBlur'
+  s.name     = 'GPUImage'
   s.version  = '0.1.2'
   s.license  = 'BSD'
   s.platform = :ios, '5.0'
